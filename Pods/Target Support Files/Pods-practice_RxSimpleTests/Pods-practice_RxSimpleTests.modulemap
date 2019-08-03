@@ -1,0 +1,6 @@
+framework module Pods_practice_RxSimpleTests {
+  umbrella header "Pods-practice_RxSimpleTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
